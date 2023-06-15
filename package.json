@@ -1,0 +1,22 @@
+{
+  "name": "nandha_random_number_generator",
+  "version": "1.0.0",
+  "description": "A random number generator (RNG) is a computational algorithm or device that generates a sequence of numbers that appear to be random. Random numbers are important in various applications, including computer simulations, cryptography, statistical analysis, and game development. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N4NDH4KUM4R/random_number_generator.git"
+  },
+  "keywords": [
+    "nandha"
+  ],
+  "author": "Nandha kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N4NDH4KUM4R/random_number_generator/issues"
+  },
+  "homepage": "https://github.com/N4NDH4KUM4R/random_number_generator#readme"
+}
